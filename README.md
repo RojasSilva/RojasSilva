@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+me chamo Caius Rojas
+Estou estudando java
+meu email é rojascaius@gmail.com
 <!--
 **RojasSilva/RojasSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
